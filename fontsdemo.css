@@ -1,0 +1,21 @@
+p {
+  font-family: "Raleway", sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: underline;
+}
+body {
+  font-size: 10px;
+}
+h1 {
+  font-family: "Raleway", sans-serif;
+
+  font-size: 5em;
+  text-align: center;
+  text-decoration: line-through;
+}
+span {
+  font-size: 2em;
+}
